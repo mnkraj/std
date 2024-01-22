@@ -1,1 +1,9 @@
-"# std_mng_sys" 
+![Screenshot (125)](https://github.com/mnkraj/std/assets/127421631/20221c61-601f-4de1-9a2a-6b5722d2228d)
+![Screenshot (126)](https://github.com/mnkraj/std/assets/127421631/d8cf77e3-a4e4-4ad4-941e-baf90c374ca4)
+![Screenshot (127)](https://github.com/mnkraj/std/assets/127421631/3bc13561-1560-4914-8b62-e321e568a015)
+![Screenshot (128)](https://github.com/mnkraj/std/assets/127421631/5976d62b-bf73-4a4e-8e4f-aa7c7c2ffcce)
+![Screenshot (129)](https://github.com/mnkraj/std/assets/127421631/1d278f14-6417-4064-8e22-b0730830a59a)
+![Screenshot (130)](https://github.com/mnkraj/std/assets/127421631/ad1e547e-bd06-45d3-8570-f2adda89fb75)
+![Screenshot (131)](https://github.com/mnkraj/std/assets/127421631/47fd395a-ff27-4ebc-9765-9f4f98f521b4)
+![Screenshot (132)](https://github.com/mnkraj/std/assets/127421631/f5b11c46-df91-4238-9ebf-1bc4e0f55c4e)
+![Screenshot (133)](https://github.com/mnkraj/std/assets/127421631/e446ddd3-0e0a-415e-8696-ca906c0695b6)
